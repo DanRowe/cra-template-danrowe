@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-danrowe",
+  "version": "0.0.1",
+  "author": "DanRowe",
+  "description": "Base template with Eslint Airbnb and prettier config.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
