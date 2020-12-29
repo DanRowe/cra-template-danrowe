@@ -1,6 +1,6 @@
 {
   "name": "cra-template-danrowe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "DanRowe",
   "description": "Base template with Eslint Airbnb and prettier config.",
   "keywords": [
