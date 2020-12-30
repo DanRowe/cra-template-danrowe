@@ -12,6 +12,8 @@ Designed to be used in VSCode and comes with workspace settings in `.vscode/sett
 
 Replace `my-app` with the name of your application
 
+After install, modify `package.json` by moving all eslint dependencies into devDependencies like in `example.package.json`.
+
 For more information, please refer to:
 
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.

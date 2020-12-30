@@ -1,6 +1,6 @@
 {
   "name": "cra-template-danrowe",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "DanRowe",
   "description": "Base Create React App template with Eslint and prettier configured.",
   "keywords": [
