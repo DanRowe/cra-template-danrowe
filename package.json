@@ -1,18 +1,20 @@
 {
   "name": "cra-template-danrowe",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "author": "DanRowe",
-  "description": "Base template with Eslint Airbnb and prettier config.",
+  "description": "Base Create React App template with Eslint and prettier configured.",
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "eslint",
+    "prettier",
+    "vscode"
   ],
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/DanRowe/cra-template-danrowe.git"
   },
   "license": "MIT",
   "engines": {
