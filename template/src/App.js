@@ -17,6 +17,21 @@ function App() {
           rel="noopener noreferrer">
           Learn React
         </a>
+        <p style={{ color: "orange" }}>
+          Make sure to move eslint dependencies in <code>package.json</code> to devDependencies like
+          in <code>example.package.json</code>
+        </p>
+        &nbsp;
+        <small style={{ color: "gray" }}>
+          Starter template with Eslint and Prettier created by{" "}
+          <a
+            className="App-link"
+            href="https://github.com/DanRowe"
+            target="_blank"
+            rel="noopener noreferrer">
+            @DanRowe
+          </a>
+        </small>
       </header>
     </div>
   );
